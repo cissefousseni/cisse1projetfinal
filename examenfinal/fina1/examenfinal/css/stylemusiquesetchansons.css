@@ -1,0 +1,33 @@
+/**
+cissefousseni
+style.css
+
+ **/
+
+
+
+
+
+
+
+.parallax{
+    background-image: url("../images/1cb112454072c4ca8d35402d751dcaa1.jpg");
+    min-height: 50rem;
+    background-attachment: fixed;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+
+
+@font-face {
+    font-family: maPolice;
+    src: url(/examenfinal/font/jacob_and_son);
+
+}
+body {
+    font-family: maPolice;
+    font-size: 24px;
+}

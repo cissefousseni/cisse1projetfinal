@@ -1,0 +1,38 @@
+/**
+cissefousseni
+style.css
+
+ **/
+
+.parallax{
+    background-image: url("../images/b5bba69c1d7b44e26e1baa70eabe9aff.jpg");
+    min-height: 50rem;
+    background-attachment: fixed;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+hr{
+margin-bottom:30px;
+margin-top:30px;
+max-width: 50px;
+border-width: 3px;
+border-color: #f05f40;
+}
+
+
+
+
+
+@font-face {
+    font-family: maPolice;
+    src: url(../font/jacob_and_son);
+
+}
+
+body {
+    font-family: maPolice;
+    font-size: 24px;
+}
